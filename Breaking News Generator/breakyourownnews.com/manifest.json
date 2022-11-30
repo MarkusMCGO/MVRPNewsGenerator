@@ -1,0 +1,23 @@
+{
+  "short_name": "BYON",
+  "name": "Break Your Own News",
+  "icons": [
+    {
+      "src": "icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "https://play.google.com/store/apps/details?id=com.breakyourownnews.breakyourownnews"
+    }
+  ]
+}
